@@ -20,6 +20,7 @@ html:
 
 ___
 
+网页查看更舒适（https://github.com/Sherry520/CAU-Maize208）
 
 # 1. 前言提示
 
