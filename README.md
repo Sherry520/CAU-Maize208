@@ -1,13 +1,3 @@
----
-html:
-    toc: true
-    # number_sections: true # 标题开头加上编号
-    toc_depth: 6
-    toc_float:
-        collapsed: false # 控制文档第一次打开时目录是否被折叠
-        smooth_scroll: true # 控制页面滚动时，标题是否会随之变化
----
-
 <div align="center">
 服务器使用说明
 </div>
